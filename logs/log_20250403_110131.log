@@ -1,0 +1,5 @@
+time=2025-04-03T11:01:31.418Z level=INFO msg="Server starting..." logFile=logs/log_20250403_110131.log
+time=2025-04-03T11:01:31.460Z level=INFO msg="Server started" Address=http://localhost:8080/
+time=2025-04-03T11:01:35.697Z level=INFO msg="Request handled successfully." method=GET url=/reports/popular-items
+time=2025-04-03T11:01:38.505Z level=INFO msg="Request handled successfully." method=GET url=/menu
+time=2025-04-03T11:01:59.737Z level=INFO msg="Request handled successfully." method=GET url=/menu

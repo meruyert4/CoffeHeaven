@@ -1,0 +1,15 @@
+time=2025-04-03T11:52:16.019Z level=INFO msg="Server starting..." logFile=logs/log_20250403_115216.log
+time=2025-04-03T11:52:16.020Z level=ERROR msg="Error connecting to the database" Error="dial tcp 172.22.0.2:5432: connect: connection refused"
+time=2025-04-03T11:52:16.020Z level=INFO msg="Reconnecting... Attempt #1"
+time=2025-04-03T11:52:19.064Z level=INFO msg="Successful connection to the database!"
+time=2025-04-03T11:52:19.065Z level=INFO msg="Server started" Address=http://localhost:8080/
+time=2025-04-03T11:52:20.649Z level=INFO msg="Request handled successfully." method=GET url=/reports/popular-items
+time=2025-04-03T11:52:22.966Z level=INFO msg="Request handled successfully." method=GET url=/menu
+time=2025-04-03T11:52:23.923Z level=INFO msg="Request handled successfully." method=GET url=/reports/popular-items
+time=2025-04-03T11:52:24.732Z level=INFO msg="Request handled successfully." method=GET url=/menu
+time=2025-04-03T11:52:25.033Z level=INFO msg="Request handled successfully." method=GET url=/reports/popular-items
+time=2025-04-03T11:55:06.628Z level=INFO msg="Request handled successfully." method=POST url=/orders
+time=2025-04-03T11:55:09.451Z level=ERROR msg="pq: duplicate key value violates unique constraint \"order_items_pkey\"" error="pq: duplicate key value violates unique constraint \"order_items_pkey\"" method=PUT url=/orders/1
+time=2025-04-03T11:56:55.322Z level=INFO msg="Request handled successfully." method=GET url=/menu
+time=2025-04-03T11:57:07.603Z level=INFO msg="Request handled successfully." method=GET url=/reports/popular-items
+time=2025-04-03T12:00:47.239Z level=INFO msg="Request handled successfully." method=GET url=/menu

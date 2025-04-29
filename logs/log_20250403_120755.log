@@ -1,0 +1,16 @@
+time=2025-04-03T12:07:55.300Z level=INFO msg="Server starting..." logFile=logs/log_20250403_120755.log
+time=2025-04-03T12:07:55.348Z level=INFO msg="Server started" Address=http://localhost:8080/
+time=2025-04-03T12:08:08.249Z level=INFO msg="Request handled successfully." method=GET url=/reports/popular-items
+time=2025-04-03T12:08:14.087Z level=INFO msg="Request handled successfully." method=GET url=/menu
+time=2025-04-03T12:08:15.139Z level=INFO msg="Request handled successfully." method=GET url=/reports/popular-items
+time=2025-04-03T12:08:24.017Z level=INFO msg="Request handled successfully." method=GET url=/menu
+time=2025-04-03T12:08:26.616Z level=INFO msg="Request handled successfully." method=GET url=/orders
+time=2025-04-03T12:08:28.951Z level=INFO msg="Request handled successfully." method=GET url=/inventory
+time=2025-04-03T12:08:31.207Z level=INFO msg="Request handled successfully." method=GET url=/reports/popular-items
+time=2025-04-03T12:08:48.122Z level=INFO msg="Request handled successfully." method=GET url=/reports/popular-items
+time=2025-04-03T12:09:02.847Z level=INFO msg="Request handled successfully." method=GET url=/reports/popular-items
+time=2025-04-03T12:09:36.464Z level=INFO msg="Request handled successfully." method=GET url=/reports/popular-items
+time=2025-04-03T12:10:01.531Z level=INFO msg="Request handled successfully." method=GET url=/reports/popular-items
+time=2025-04-03T12:10:05.847Z level=INFO msg="Request handled successfully." method=GET url=/menu
+time=2025-04-03T12:10:44.056Z level=INFO msg="Request handled successfully." method=GET url=/menu
+time=2025-04-03T12:11:19.264Z level=INFO msg="Request handled successfully." method=GET url=/menu

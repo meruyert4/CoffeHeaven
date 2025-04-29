@@ -1,0 +1,11 @@
+time=2025-04-03T11:48:19.661Z level=INFO msg="Server starting..." logFile=logs/log_20250403_114819.log
+time=2025-04-03T11:48:19.663Z level=ERROR msg="Error connecting to the database" Error="dial tcp 172.21.0.2:5432: connect: connection refused"
+time=2025-04-03T11:48:19.663Z level=INFO msg="Reconnecting... Attempt #1"
+time=2025-04-03T11:48:22.673Z level=INFO msg="Successful connection to the database!"
+time=2025-04-03T11:48:22.674Z level=INFO msg="Server started" Address=http://localhost:8080/
+time=2025-04-03T11:48:24.139Z level=INFO msg="Request handled successfully." method=GET url=/reports/popular-items
+time=2025-04-03T11:48:27.155Z level=INFO msg="Request handled successfully." method=GET url=/menu
+time=2025-04-03T11:48:28.174Z level=INFO msg="Request handled successfully." method=GET url=/reports/popular-items
+time=2025-04-03T11:48:39.958Z level=INFO msg="Request handled successfully." method=GET url=/reports/popular-items
+time=2025-04-03T11:48:40.291Z level=INFO msg="Request handled successfully." method=GET url=/menu
+time=2025-04-03T11:48:41.972Z level=INFO msg="Request handled successfully." method=GET url=/menu

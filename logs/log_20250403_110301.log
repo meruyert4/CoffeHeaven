@@ -1,0 +1,10 @@
+time=2025-04-03T11:03:01.272Z level=INFO msg="Server starting..." logFile=logs/log_20250403_110301.log
+time=2025-04-03T11:03:01.284Z level=INFO msg="Server started" Address=http://localhost:8080/
+time=2025-04-03T11:03:03.494Z level=INFO msg="Request handled successfully." method=GET url=/menu
+time=2025-04-03T11:05:53.519Z level=INFO msg="Request handled successfully." method=POST url=/orders
+time=2025-04-03T11:05:57.572Z level=ERROR msg="pq: duplicate key value violates unique constraint \"order_items_pkey\"" error="pq: duplicate key value violates unique constraint \"order_items_pkey\"" method=PUT url=/orders/1
+time=2025-04-03T11:06:00.622Z level=INFO msg="Request handled successfully." method=GET url=/inventory
+time=2025-04-03T11:06:05.779Z level=INFO msg="Request handled successfully." method=GET url=/inventory/3
+time=2025-04-03T11:06:11.581Z level=INFO msg="Request handled successfully." method=POST url=/inventory
+time=2025-04-03T11:06:20.465Z level=INFO msg="Request handled successfully." method=PUT url=/inventory/11
+time=2025-04-03T11:06:31.065Z level=INFO msg="Request handled successfully." method=GET url=/inventory/11
