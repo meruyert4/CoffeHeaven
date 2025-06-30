@@ -1,12 +1,12 @@
-# ☕ **Frappuchino - The Ultimate Coffee Shop Management System** 💖
+# ☕ **CoffeHeaven - The Ultimate Coffee Shop Management System** 💖
 
 Ever wondered how your favorite coffee shop juggles a rush of orders, ensures they always have your favorite blend ready, and remembers your special coffee preferences? Behind the scenes, they rely on smart management systems to keep everything running smoothly. ☕💻
 
-Introducing **Frappuchino** — a simplified version of these systems! It’s your chance to dive into the technology behind the coffee counter. With **Frappuchino**, you’ll be able to handle orders, manage inventory, and keep the menu up to date, just like a real coffee shop manager. Let’s make the coffee shop world even better with some cool tech! 💡
+Introducing **CoffeHeaven** — a simplified version of these systems! It’s your chance to dive into the technology behind the coffee counter. With **Frappuchino**, you’ll be able to handle orders, manage inventory, and keep the menu up to date, just like a real coffee shop manager. Let’s make the coffee shop world even better with some cool tech! 💡
 
 ---
 
-## ✨ Key Features of Frappuchino:
+## ✨ Key Features of CoffeHeaven:
 
 - **Manage Orders:** Create, update, close, and delete customer orders with ease. You’ve got this! 👨‍🍳✨
 - **Oversee Inventory:** Keep track of stock levels to prevent shortages and ensure every cup is fresh and perfect. 📦
@@ -150,7 +150,7 @@ Content-Type: application/json
 
 ## 🚀 How to Run
 
-To get **Frappuchino** up and running locally with Docker, follow these steps:
+To get **CoffeHeaven** up and running locally with Docker, follow these steps:
 
 1. Make sure you have **Docker** installed on your machine.
 2. Clone the repository to your local machine.
@@ -168,7 +168,5 @@ This will set up all the necessary containers and get the app running on your lo
 ## 🏅 Authors:
 
 This project has been brought to you with love by:
-- **mboranba** 💻
-- **azhalgas** 🌟
-
----# CoffeHeaven
+- **Meruyert** 💻
+- **Aida** 🌟
